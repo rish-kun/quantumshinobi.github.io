@@ -34,11 +34,7 @@ const Hero = () => {
               Hi, I&apos;m rish, a django developer based in
             </p>
             <a href="/about">
-              <MagicButton
-                icon={<FaLocationArrow />}
-                title="Show my work"
-                position="right"
-              />
+              <MagicButton title="Show my work" />
             </a>
           </div>
         </div>
